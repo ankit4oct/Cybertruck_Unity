@@ -1,0 +1,394 @@
+fileFormatVersion: 2
+guid: 9afe18554241b4e57a1fe43258e774b6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: aiAreaLight5
+    100004: aiAreaLight6
+    100006: aiAreaLight7
+    100008: ball01
+    100010: ball02
+    100012: body
+    100014: bottom_body
+    100016: cybertruck_mini_grp
+    100018: glass2
+    100020: glass_break3
+    100022: glass_break4
+    100024: headlights
+    100026: lights_truck_grp
+    100028: low_lights
+    100030: lower_body
+    100032: rim
+    100034: rim 1
+    100036: rim 2
+    100038: rim 3
+    100040: seats
+    100042: stop_lights
+    100044: tire
+    100046: tire 1
+    100048: tire 2
+    100050: tire 3
+    100052: tire_back_L
+    100054: tire_back_R
+    100056: tire_front_L
+    100058: tire_front_R
+    100060: tire_threads
+    100062: tire_threads 1
+    100064: tire_threads 2
+    100066: tire_threads 3
+    100068: top_body
+    400000: //RootNode
+    400002: aiAreaLight5
+    400004: aiAreaLight6
+    400006: aiAreaLight7
+    400008: ball01
+    400010: ball02
+    400012: body
+    400014: bottom_body
+    400016: cybertruck_mini_grp
+    400018: glass2
+    400020: glass_break3
+    400022: glass_break4
+    400024: headlights
+    400026: lights_truck_grp
+    400028: low_lights
+    400030: lower_body
+    400032: rim
+    400034: rim 1
+    400036: rim 2
+    400038: rim 3
+    400040: seats
+    400042: stop_lights
+    400044: tire
+    400046: tire 1
+    400048: tire 2
+    400050: tire 3
+    400052: tire_back_L
+    400054: tire_back_R
+    400056: tire_front_L
+    400058: tire_front_R
+    400060: tire_threads
+    400062: tire_threads 1
+    400064: tire_threads 2
+    400066: tire_threads 3
+    400068: top_body
+    2100000: tires_shd
+    2100002: rims_shd
+    2100004: body_low_shd
+    2100006: backlight_shd
+    2100008: headlights_shd
+    2100010: lowlights_shd
+    2100012: body_shd
+    2100014: glass_01
+    2100016: glass_02
+    2100018: ball
+    2300000: ball01
+    2300002: ball02
+    2300004: body
+    2300006: bottom_body
+    2300008: glass2
+    2300010: glass_break3
+    2300012: glass_break4
+    2300014: headlights
+    2300016: low_lights
+    2300018: lower_body
+    2300020: rim
+    2300022: rim 1
+    2300024: rim 2
+    2300026: rim 3
+    2300028: seats
+    2300030: stop_lights
+    2300032: tire
+    2300034: tire 1
+    2300036: tire 2
+    2300038: tire 3
+    2300040: tire_threads
+    2300042: tire_threads 1
+    2300044: tire_threads 2
+    2300046: tire_threads 3
+    3300000: ball01
+    3300002: ball02
+    3300004: body
+    3300006: bottom_body
+    3300008: glass2
+    3300010: glass_break3
+    3300012: glass_break4
+    3300014: headlights
+    3300016: low_lights
+    3300018: lower_body
+    3300020: rim
+    3300022: rim 1
+    3300024: rim 2
+    3300026: rim 3
+    3300028: seats
+    3300030: stop_lights
+    3300032: tire
+    3300034: tire 1
+    3300036: tire 2
+    3300038: tire 3
+    3300040: tire_threads
+    3300042: tire_threads 1
+    3300044: tire_threads 2
+    3300046: tire_threads 3
+    4300000: tire
+    4300002: tire_threads
+    4300004: rim
+    4300006: lower_body
+    4300008: stop_lights
+    4300010: headlights
+    4300012: low_lights
+    4300014: bottom_body
+    4300016: seats
+    4300018: body
+    4300020: glass2
+    4300022: glass_break3
+    4300024: glass_break4
+    4300026: tire
+    4300028: tire_threads
+    4300030: rim
+    4300032: tire
+    4300034: tire_threads
+    4300036: rim
+    4300038: tire
+    4300040: tire_threads
+    4300042: rim
+    4300044: ball01
+    4300046: ball02
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: backlight_shd
+    second: {fileID: 2100000, guid: 9dfe4d8389ee842b19425597d04295c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball
+    second: {fileID: 2100000, guid: 9d90cd95041744c608f56026a8d7f453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_low_shd
+    second: {fileID: 2100000, guid: 449fafbe4b67c40f1bbb327646ddc990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_shd
+    second: {fileID: 2100000, guid: 0b41aebe6aa6a4aebb1ae3fae99046b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_01
+    second: {fileID: 2100000, guid: 485b6fe24e6764e37964565cf5de3f6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass_02
+    second: {fileID: 2100000, guid: bb7cfe1c615a944e78da05a8245a6cd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: headlights_shd
+    second: {fileID: 2100000, guid: c04a92205bb4c42f28de60aec6172454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lowlights_shd
+    second: {fileID: 2100000, guid: 5870bae1124ad4bc9b18f8cb1ea06f34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rims_shd
+    second: {fileID: 2100000, guid: 2556fa0b6af9442ea899d36a9af936ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tires_shd
+    second: {fileID: 2100000, guid: 930fa761f46dc4f4799c7f14058af0ff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 2
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ball01
+        weight: 1
+      - path: ball02
+        weight: 1
+      - path: cybertruck_mini_grp
+        weight: 1
+      - path: cybertruck_mini_grp/lights_truck_grp
+        weight: 1
+      - path: cybertruck_mini_grp/lights_truck_grp/aiAreaLight5
+        weight: 1
+      - path: cybertruck_mini_grp/lights_truck_grp/aiAreaLight6
+        weight: 1
+      - path: cybertruck_mini_grp/lights_truck_grp/aiAreaLight7
+        weight: 1
+      - path: cybertruck_mini_grp/tire_back_L
+        weight: 1
+      - path: cybertruck_mini_grp/tire_back_L/rim
+        weight: 1
+      - path: cybertruck_mini_grp/tire_back_L/tire
+        weight: 1
+      - path: cybertruck_mini_grp/tire_back_L/tire_threads
+        weight: 1
+      - path: cybertruck_mini_grp/tire_back_R
+        weight: 1
+      - path: cybertruck_mini_grp/tire_back_R/rim 1
+        weight: 1
+      - path: cybertruck_mini_grp/tire_back_R/tire 1
+        weight: 1
+      - path: cybertruck_mini_grp/tire_back_R/tire_threads 1
+        weight: 1
+      - path: cybertruck_mini_grp/tire_front_L
+        weight: 1
+      - path: cybertruck_mini_grp/tire_front_L/rim 2
+        weight: 1
+      - path: cybertruck_mini_grp/tire_front_L/tire 2
+        weight: 1
+      - path: cybertruck_mini_grp/tire_front_L/tire_threads 2
+        weight: 1
+      - path: cybertruck_mini_grp/tire_front_R
+        weight: 1
+      - path: cybertruck_mini_grp/tire_front_R/rim 3
+        weight: 1
+      - path: cybertruck_mini_grp/tire_front_R/tire 3
+        weight: 1
+      - path: cybertruck_mini_grp/tire_front_R/tire_threads 3
+        weight: 1
+      - path: cybertruck_mini_grp/top_body
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/body
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/bottom_body
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/glass2
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/glass_break3
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/glass_break4
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/headlights
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/low_lights
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/lower_body
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/seats
+        weight: 1
+      - path: cybertruck_mini_grp/top_body/stop_lights
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 1
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
